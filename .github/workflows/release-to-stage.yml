@@ -2,8 +2,6 @@ name: release to stage
 
 on:
   push:
-    branches:
-      - main
     tags:
       - v.*
     
@@ -21,6 +19,6 @@ jobs:
         uses: peter-evans/create-pull-request@v5
         with:
           commit-message: release to stage
-          branch: release-target-1
-          base: main
+          branch: main
+          base: release-target-1
           labels: auto-pr
