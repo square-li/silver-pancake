@@ -25,4 +25,4 @@ jobs:
         run: gh pr create -B origin/main -H origin/release-target-1 --title 'Merge release '+ $RELEASE_VERSION +' into stage 1' --body 'Created by Github action'
         env:
             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-            RELEASE_VERSION: ${{ steps.vars.outputs.tag }}
+            RELEASE_VERSION: ${{ steps.vars.outputs.tag }} || 'tag-name'
