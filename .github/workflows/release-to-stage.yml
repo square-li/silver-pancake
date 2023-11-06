@@ -4,8 +4,8 @@ on:
   push:
     branches:
       - main
-    paths:
-      - 'CHANGELOG.md'
+    # paths:
+    #   - 'CHANGELOG.md'
     
     
 permissions:
@@ -13,14 +13,16 @@ permissions:
   pull-requests: write
 
 jobs:
-  release-please:
+  create_pr:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v5
-        with:
-          commit-message: release to stage
-          branch: main
-          base: release-target-1
-          labels: auto-pr
+      - uses: actions/checkout@v2
+      - name: Set output
+        id: vars
+        run: echo "tag=${GITHUB_REF#refs/*/}" >> $GITHUB_OUTPUT
+      
+      - name: create pull request
+        run: gh pr create -B origin/main -H origin/release-target-1 --title 'Merge release '+ $RELEASE_VERSION +' into stage 1' --body 'Created by Github action'
+        env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            RELEASE_VERSION: ${{ steps.vars.outputs.tag }}
