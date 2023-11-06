@@ -1,8 +1,12 @@
 name: release to stage
 
 on:
-  release:
-    types: [published]
+  push:
+    branches:
+      - main
+    tags:
+      - v.*
+    
     
 permissions:
   contents: write
