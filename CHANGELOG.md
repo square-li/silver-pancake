@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.1](https://github.com/square-li/silver-pancake/compare/v1.2.0...v1.2.1) (2023-11-06)
+
+
+### Bug Fixes
+
+* update action filter ([9865451](https://github.com/square-li/silver-pancake/commit/9865451d7fd4ead0d196d517784aa49998f8efa9))
+
 ## [1.2.0](https://github.com/square-li/silver-pancake/compare/v1.1.2...v1.2.0) (2023-11-06)
 
 
