@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.2.0](https://github.com/square-li/silver-pancake/compare/v1.1.2...v1.2.0) (2023-11-06)
+
+
+### Features
+
+* greetings ([0e9dbca](https://github.com/square-li/silver-pancake/commit/0e9dbca6f313682d2b799db1aa625db0631a2726))
+
+
+### Bug Fixes
+
+* set release PR's base to main ([66f0934](https://github.com/square-li/silver-pancake/commit/66f0934ab109928f50dc0ed489be474cf0872264))
+
 ## [1.1.2](https://github.com/square-li/silver-pancake/compare/v1.1.1...v1.1.2) (2023-11-06)
 
 
