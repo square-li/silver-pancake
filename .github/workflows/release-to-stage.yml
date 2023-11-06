@@ -22,4 +22,5 @@ jobs:
         with:
           commit-message: release to stage
           branch: release-target-1
+          base: main
           labels: auto-pr
