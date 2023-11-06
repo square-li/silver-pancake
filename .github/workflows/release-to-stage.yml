@@ -2,7 +2,7 @@ name: release to stage
 
 on:
   release:
-  - [published]
+    types: [published]
     
 permissions:
   contents: write
