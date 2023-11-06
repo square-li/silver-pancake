@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/square-li/silver-pancake/compare/v1.2.1...v1.3.0) (2023-11-06)
+
+
+### Features
+
+* small update ([6a027b2](https://github.com/square-li/silver-pancake/commit/6a027b244cd9fddfc43752079226eb3b9665602d))
+
 ## [1.2.1](https://github.com/square-li/silver-pancake/compare/v1.2.0...v1.2.1) (2023-11-06)
 
 
