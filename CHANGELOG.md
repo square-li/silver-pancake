@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/square-li/silver-pancake/compare/v1.1.0...v1.1.1) (2023-11-06)
+
+
+### Bug Fixes
+
+* update release-to-stage.yml ([e99be74](https://github.com/square-li/silver-pancake/commit/e99be746a7d42c5eb1b66a2cd78c7e9f875cf1f7))
+
 ## [1.1.0](https://github.com/square-li/silver-pancake/compare/v1.0.0...v1.1.0) (2023-11-06)
 
 
