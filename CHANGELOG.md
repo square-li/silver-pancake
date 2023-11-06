@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.3.2](https://github.com/square-li/silver-pancake/compare/v1.3.1...v1.3.2) (2023-11-06)
+
+
+### Bug Fixes
+
+* sfsdfsdf ([5d536d7](https://github.com/square-li/silver-pancake/commit/5d536d7829c2f8f1f5c815880dd804ab696f09f5))
+* update release-to-stage.yml ([af3a98e](https://github.com/square-li/silver-pancake/commit/af3a98e93134b891dd55f21c304f7aba51e2de1c))
+
 ## [1.3.1](https://github.com/square-li/silver-pancake/compare/v1.3.0...v1.3.1) (2023-11-06)
 
 
