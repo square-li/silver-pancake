@@ -1,5 +1,39 @@
 # Changelog
 
+## [1.5.0](https://github.com/square-li/silver-pancake/compare/v1.4.0...v1.5.0) (2023-11-07)
+
+
+### Features
+
+* auto create PR to release to stage env ([406529f](https://github.com/square-li/silver-pancake/commit/406529f6dc04f5288dc1d198401d3fa3b4223121))
+* create release-ca.yml ([e181331](https://github.com/square-li/silver-pancake/commit/e1813318106f049e04cdd653ac8482b4d5534812))
+* greetings ([0e9dbca](https://github.com/square-li/silver-pancake/commit/0e9dbca6f313682d2b799db1aa625db0631a2726))
+* small update ([6a027b2](https://github.com/square-li/silver-pancake/commit/6a027b244cd9fddfc43752079226eb3b9665602d))
+* update CI ([d6233c2](https://github.com/square-li/silver-pancake/commit/d6233c2c511ea2d579e893e7aafe8b21a2a0d519))
+* update css ([6a3da65](https://github.com/square-li/silver-pancake/commit/6a3da655cdd592b7c3306bcd308ae71cf5baf608))
+* update package ([5d5c89e](https://github.com/square-li/silver-pancake/commit/5d5c89edb3b75acf30c53f5f05f9199f714230fc))
+* update release.yml ([91a05e7](https://github.com/square-li/silver-pancake/commit/91a05e75a41762211457867dcde5eaf825b20838))
+
+
+### Bug Fixes
+
+* 1 ([92edc92](https://github.com/square-li/silver-pancake/commit/92edc923ee4799200b9f5f20ba256692aff69700))
+* another fix ([9717187](https://github.com/square-li/silver-pancake/commit/9717187ec817a5f2672b2ee85b2e8e505ccb1968))
+* release-to-stage.yml ([bae185c](https://github.com/square-li/silver-pancake/commit/bae185c3a301defddb5832685205b075ddc92a0a))
+* release-to-stage.yml ([428fa74](https://github.com/square-li/silver-pancake/commit/428fa74fadd5b07f0651c8757efabb82a5c737ef))
+* release-to-stage.yml ([8d523e8](https://github.com/square-li/silver-pancake/commit/8d523e81b0060ef77dd682e522e2bde1d8a178be))
+* set release PR's base to main ([66f0934](https://github.com/square-li/silver-pancake/commit/66f0934ab109928f50dc0ed489be474cf0872264))
+* sfsdfsdf ([5d536d7](https://github.com/square-li/silver-pancake/commit/5d536d7829c2f8f1f5c815880dd804ab696f09f5))
+* update ([a53e20d](https://github.com/square-li/silver-pancake/commit/a53e20d1256f4f42452c57e76853782d224eb6d6))
+* update action filter ([9865451](https://github.com/square-li/silver-pancake/commit/9865451d7fd4ead0d196d517784aa49998f8efa9))
+* update ignore path ([a482b66](https://github.com/square-li/silver-pancake/commit/a482b667cce38d625f7e34b1286e279d5f929c40))
+* update release target branch ([13c4217](https://github.com/square-li/silver-pancake/commit/13c421780c290dccec7579859b7e1842e14fa9e8))
+* update release-to-stage.yml ([6be9921](https://github.com/square-li/silver-pancake/commit/6be9921b6f42c1978d1373fefebb9dfbf2b3843f))
+* update release-to-stage.yml ([af3a98e](https://github.com/square-li/silver-pancake/commit/af3a98e93134b891dd55f21c304f7aba51e2de1c))
+* update release-to-stage.yml ([062b9f7](https://github.com/square-li/silver-pancake/commit/062b9f7177864281ea71650cedca68ba6ba28850))
+* update release-to-stage.yml ([e99be74](https://github.com/square-li/silver-pancake/commit/e99be746a7d42c5eb1b66a2cd78c7e9f875cf1f7))
+* update workflow ([04dce59](https://github.com/square-li/silver-pancake/commit/04dce597c6b48fe7205002363477269ae7ac8992))
+
 ## [1.4.0](https://github.com/square-li/silver-pancake/compare/v1.3.7...v1.4.0) (2023-11-07)
 
 
