@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.6.0](https://github.com/square-li/silver-pancake/compare/app-name-v1.0.0...app-name-v1.6.0) (2023-11-07)
+
+
+### Features
+
+* new feature ([0efb7b9](https://github.com/square-li/silver-pancake/commit/0efb7b95c5f114192e583cb6d1aa39223b399b69))
+
+
+### Bug Fixes
+
+* remove ([6440ac1](https://github.com/square-li/silver-pancake/commit/6440ac1caa0e67b0ffcc045a68e19d18c7d0b1bd))
+
 ## 1.0.0 (2023-11-07)
 
 
