@@ -17,5 +17,5 @@ jobs:
         with:
           release-type: node
           package-name: my-app
-          pull-request-title-pattern: 'chore: release ${version}'
+          pull-request-title-pattern: 'chore: [PROD] release ${version}'
           default-branch: release/prod/ca
