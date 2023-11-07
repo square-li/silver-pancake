@@ -25,4 +25,4 @@ jobs:
         run: gh pr create -H main -B release-target-1 --title $PR_TITLE --body 'Created by Github action'
         env:
             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-            PR_TITLE: Merge release ${{ steps.vars.outputs.tag }} into stage 1 
+            PR_TITLE: "Merge release ${{ steps.vars.outputs.tag }} into stage 1"
