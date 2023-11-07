@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.9.0](https://github.com/square-li/silver-pancake/compare/v1.8.0...v1.9.0) (2023-11-07)
+
+
+### Features
+
+* hello everyone ([2151fd3](https://github.com/square-li/silver-pancake/commit/2151fd3098415f75680f250b6ab517b5bf476fb2))
+
+
+### Bug Fixes
+
+* remove some text ([d8d7769](https://github.com/square-li/silver-pancake/commit/d8d7769a90fe662a5dd9c2073c7895dd7f951e59))
+
 ## [1.8.0](https://github.com/square-li/silver-pancake/compare/v1.7.0...v1.8.0) (2023-11-07)
 
 
