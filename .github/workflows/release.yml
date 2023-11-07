@@ -19,4 +19,4 @@ jobs:
           package-name: my-app
           pull-request-title-pattern: 'chore: release ${version}'
           default-branch: release/stage/ca
-          skip-github-release: true
+          command: manifest
