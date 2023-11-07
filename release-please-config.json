@@ -8,7 +8,8 @@
       "draft": false,
       "prerelease": false,
       "pull-request-title-pattern": "chore: release ${version}",
-      "default-branch": "main"
+      "default-branch": "main",
+      "include-component-in-tag": false
     }
   },
   "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json"
