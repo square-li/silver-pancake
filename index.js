@@ -12,6 +12,7 @@ const menu = require('./menu.js');
 unhandled();
 debug();
 contextMenu();
+// test
 
 // Note: Must match `build.appId` in package.json
 app.setAppUserModelId('com.company.AppName');
