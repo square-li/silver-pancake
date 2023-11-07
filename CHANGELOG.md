@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.0](https://github.com/square-li/silver-pancake/compare/v1.3.7...v1.4.0) (2023-11-07)
+
+
+### Features
+
+* create release-ca.yml ([e181331](https://github.com/square-li/silver-pancake/commit/e1813318106f049e04cdd653ac8482b4d5534812))
+
 ## [1.3.7](https://github.com/square-li/silver-pancake/compare/v1.3.6...v1.3.7) (2023-11-07)
 
 
