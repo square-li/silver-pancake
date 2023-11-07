@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.3.4](https://github.com/square-li/silver-pancake/compare/v1.3.3...v1.3.4) (2023-11-07)
+
+
+### Bug Fixes
+
+* update release-to-stage.yml ([6be9921](https://github.com/square-li/silver-pancake/commit/6be9921b6f42c1978d1373fefebb9dfbf2b3843f))
+* update workflow ([04dce59](https://github.com/square-li/silver-pancake/commit/04dce597c6b48fe7205002363477269ae7ac8992))
+
 ## [1.3.3](https://github.com/square-li/silver-pancake/compare/v1.3.2...v1.3.3) (2023-11-06)
 
 
