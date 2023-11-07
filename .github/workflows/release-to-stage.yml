@@ -20,9 +20,8 @@ jobs:
       - name: Set output
         id: vars
         run: echo "tag=${GITHUB_REF#refs/*/}" >> $GITHUB_OUTPUT
-      
       - name: create pull request
-        run: gh pr create -H main -B release-target-1 --title $PR_TITLE --body 'Created by Github action'
+        run: gh pr create -H main -B release-target-1 --title "$PR_TITLE" --body 'Created by GitHub action'
         env:
             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
             PR_TITLE: "Merge release ${{ steps.vars.outputs.tag }} into stage 1"
