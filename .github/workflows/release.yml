@@ -15,8 +15,4 @@ jobs:
     steps:
       - uses: google-github-actions/release-please-action@v3
         with:
-          release-type: node
-          package-name: my-app
-          pull-request-title-pattern: 'chore: release ${version}'
-          default-branch: release/stage/ca
           command: manifest
