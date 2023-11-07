@@ -9,6 +9,7 @@ const contextMenu = require('electron-context-menu');
 const config = require('./config.js');
 const menu = require('./menu.js');
 
+console.log('hello');
 unhandled();
 debug();
 contextMenu();
