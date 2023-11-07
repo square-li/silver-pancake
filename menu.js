@@ -13,7 +13,6 @@ const config = require('./config.js');
 
 const showPreferences = () => {
 	// Show the app's preferences here
-	console.log('hello');
 };
 
 const helpSubmenu = [
