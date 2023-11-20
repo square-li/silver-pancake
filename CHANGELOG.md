@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.9.1](https://github.com/square-li/silver-pancake/compare/v1.9.0...v1.9.1) (2023-11-20)
+
+
+### Bug Fixes
+
+* set pre release to true ([cfc3be3](https://github.com/square-li/silver-pancake/commit/cfc3be330b5ff0911c8a19d0f48fe87128d2a8ef))
+
 ## [1.9.0](https://github.com/square-li/silver-pancake/compare/v1.8.0...v1.9.0) (2023-11-07)
 
 
