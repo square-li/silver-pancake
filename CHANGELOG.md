@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.11.0-beta.1](https://github.com/square-li/silver-pancake/compare/v1.10.0-beta.1...v1.11.0-beta.1) (2023-11-20)
+
+
+### Features
+
+* update ([e5fef28](https://github.com/square-li/silver-pancake/commit/e5fef28ea923ee71cb48422805ddf4ba8adbebb8))
+
 ## [1.10.0-beta.1](https://github.com/square-li/silver-pancake/compare/v1.9.1-beta.1...v1.10.0-beta.1) (2023-11-20)
 
 
